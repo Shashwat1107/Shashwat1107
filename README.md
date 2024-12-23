@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 👯 I’m looking to collaborate on Python projects
 - 🤔 I’m looking for help with Github
-- 📫 How to reach me: ...
+- 📫 How to reach me: shashu.mangulkar@gmail.com
 - 😄 Pronouns: He/Him
